@@ -42,5 +42,31 @@ In this lab, we will explore and experiment with the Domain Name System (DNS) to
 12. **Test CNAME Resolution** – On Client1, ping "explore" to confirm it resolves to **www.google.com**.  
 13. **Verify with nslookup** – Run `nslookup explore` on Client1 to confirm the CNAME record is working.  
 
-Now, the DNS setup is complete! 🚀
+Now, the DNS setup is complete! 
+
+<h2>Picutre Examples</h2>
+
+![image](https://github.com/user-attachments/assets/4d6f3633-beb6-4910-b732-3ce3eebb7342)
+
+![image](https://github.com/user-attachments/assets/a2449f93-1173-43f9-8dea-3a449ce1d5fa)
+
+![image](https://github.com/user-attachments/assets/9c26279b-e646-4122-872d-23e69ab16d94)
+
+![image](https://github.com/user-attachments/assets/ccb38301-fba6-44d6-87e4-ab7a82d44212)
+
+![image](https://github.com/user-attachments/assets/31e9ccca-93d3-4e88-bb70-74b57fb46af4)
+
+![image](https://github.com/user-attachments/assets/4832ed1c-2862-4aad-bfdc-707fc18b69ec)
+
+![image](https://github.com/user-attachments/assets/7d96a3e3-c633-46ae-8b19-b3ebd8494eae)
+
+![image](https://github.com/user-attachments/assets/9ce30660-fa78-4d07-90ef-b68c4ed711dd)
+
+
+
+
+
+
+
+
 
