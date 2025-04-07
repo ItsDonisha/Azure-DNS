@@ -60,6 +60,8 @@ Now, the DNS setup is complete!
 
 ![image](https://github.com/user-attachments/assets/7d96a3e3-c633-46ae-8b19-b3ebd8494eae)
 
+![image](https://github.com/user-attachments/assets/1e4408a2-2d57-4cee-b7fa-7795e843e838)
+
 ![image](https://github.com/user-attachments/assets/9ce30660-fa78-4d07-90ef-b68c4ed711dd)
 
 
